@@ -1,1 +1,2 @@
-# .github
+# Trzeh
+Trzeh to dwuch + jedeń.
